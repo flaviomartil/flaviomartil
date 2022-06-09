@@ -6,7 +6,7 @@
 <p>Working with web development, with 4 year experience.</p>
 <ul>
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> <strong>Languages</strong> : HTML, CSS, JS, C#, PHP/Laravel, MySQL.</li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">:books:</g-emoji> <strong>Learning</strong> : Laravel</li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">:books:</g-emoji> <strong>Learning</strong> : React/Node.Js</li>
 <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> <strong>Collaborte</strong> : Seeking to collaborate with the development of the back-end using Laravel.</li>
 <li><g-emoji class="g-emoji" alias="hammer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f528.png">🔨</g-emoji> <strong>Tools</strong> : Visual Studio Code and GitHub.</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> <strong>Contact</strong> : My email is <a href="mailto:contato@flaviomartil.com.br">contato@flaviomartil.com.br</a></li>
