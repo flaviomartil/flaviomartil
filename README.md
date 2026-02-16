@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/flaviowmartil">
+  <a href="https://www.linkedin.com/in/flaviomartil">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -14,14 +14,14 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flaviowmartil&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flaviomartil&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flaviowmartil&theme=tokyonight" alt="Stats" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flaviowmartil&theme=tokyonight" alt="Repos per Language" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flaviomartil&theme=tokyonight" alt="Stats" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flaviomartil&theme=tokyonight" alt="Repos per Language" height="150"/>
 </div>
 
 <br>
@@ -44,11 +44,11 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=flaviowmartil&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=flaviomartil&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/flaviowmartil">flaviowmartil</a></i>
+  <i>⭐️ From <a href="https://github.com/flaviomartil">flaviomartil</a></i>
 </div>
