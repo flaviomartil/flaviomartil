@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=860&lines=Hey%2C+I'm+Flávio+Martil!;Senior+Full+Stack+%2B+AI+Engineer;TypeScript+%7C+Node.js+%7C+React+%7C+PHP;Building+AI+Agents+%26+MCP+Servers+%F0%9F%A4%96;Open+to+work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=860&lines=Hey%2C+I'm+Flávio+Martil!;Senior+Full+Stack+%2B+AI+Engineer;TypeScript+%7C+Node.js+%7C+React+%7C+PHP;Building+AI+Agents+%26+MCP+Servers+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <br>
@@ -128,6 +128,28 @@ const martil = {
 - 🎓 **Post-grad — Cloud Computing Projects** · Descomplica *(in progress)*
 - 📜 **Datadog Foundation** Certified
 - 📜 **25+ certifications** in TypeScript, React, Node.js, NestJS, React Native, Clean Architecture
+
+### 🤖 Anthropic Certifications (17 completed)
+
+| Course | Link |
+|---|---|
+| Introduction to Model Context Protocol | [certificate](https://anthropic.skilljar.com/introduction-to-model-context-protocol) |
+| Model Context Protocol: Advanced Topics | [certificate](https://anthropic.skilljar.com/model-context-protocol-advanced-topics) |
+| Building with the Claude API | [certificate](https://anthropic.skilljar.com/claude-with-the-anthropic-api) |
+| Claude Code 101 | [certificate](https://anthropic.skilljar.com/claude-code-101) |
+| Claude Code in Action | [certificate](https://anthropic.skilljar.com/claude-code-in-action) |
+| Introduction to Subagents | [certificate](https://anthropic.skilljar.com/introduction-to-subagents) |
+| Introduction to Agent Skills | [certificate](https://anthropic.skilljar.com/introduction-to-agent-skills) |
+| Claude with Amazon Bedrock | [certificate](https://anthropic.skilljar.com/claude-in-amazon-bedrock) |
+| Claude with Google Cloud Vertex AI | [certificate](https://anthropic.skilljar.com/claude-with-google-vertex) |
+| AI Fluency: Framework & Foundations | [certificate](https://anthropic.skilljar.com/ai-fluency-framework-foundations) |
+| Claude 101 | [certificate](https://anthropic.skilljar.com/claude-101) |
+| Introduction to Claude Cowork | [certificate](https://anthropic.skilljar.com/introduction-to-claude-cowork) |
+| AI Capabilities and Limitations | [certificate](https://anthropic.skilljar.com/ai-capabilities-and-limitations) |
+| AI Fluency for Students | [certificate](https://anthropic.skilljar.com/ai-fluency-for-students) |
+| AI Fluency for Educators | [certificate](https://anthropic.skilljar.com/ai-fluency-for-educators) |
+| Teaching AI Fluency | [certificate](https://anthropic.skilljar.com/teaching-ai-fluency) |
+| AI Fluency for Nonprofits | [certificate](https://anthropic.skilljar.com/ai-fluency-for-nonprofits) |
 
 ---
 
